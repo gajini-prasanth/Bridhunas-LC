@@ -7,7 +7,6 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
-import ownerPic from './ammu.jpg';
 
 function App() {
   return (
@@ -22,7 +21,7 @@ function App() {
       {/* Owner section */}
       <div className="flex flex-col items-center mt-12 mb-8">
         <img
-          src={ownerPic}
+          src="/ammu.jpg"
           alt="Owner"
           className="w-32 h-32 rounded-full shadow-lg object-cover"
         />
