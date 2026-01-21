@@ -30,7 +30,7 @@ function App() {
             <div className="relative">
               <div className="w-40 h-40 rounded-full bg-gradient-to-r from-orange-500 to-pink-500 p-1 shadow-2xl shadow-orange-500/30">
                 <img
-                  src="/ammu.jpg"
+                  src="ammu.jpg"
                   alt="Owner"
                   className="w-full h-full rounded-full object-cover"
                 />
